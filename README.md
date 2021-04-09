@@ -1,2 +1,2 @@
 # restaurant
-Bootstrap 4 Practice
+Bootstrap 4 Exercise for Restaurant
